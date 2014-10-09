@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV_Official/./myModernCV.tex
+Input:1:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV/./myModernCV.tex
 Input:2:d:/texlive/2013/texmf-dist/tex/latex/moderncv/moderncv.cls
 Input:3:d:/texlive/2013/texmf-dist/tex/latex/base/size10.clo
 Input:4:d:/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -129,14 +129,14 @@ Input:127:d:/texlive/2013/texmf-dist/tex/latex/hyperref/puenc.def
 Input:128:d:/texlive/2013/texmf-dist/tex/latex/hyperref/hxetex.def
 Input:129:d:/texlive/2013/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Input:130:d:/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Input:131:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV_Official/./myModernCV.aux
+Input:131:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV/./myModernCV.aux
 Input:132:d:/texlive/2013/texmf-dist/tex/latex/lm/t1lmr.fd
 Input:133:d:/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 Input:134:d:/texlive/2013/texmf-dist/tex/latex/lm/t1lmss.fd
 Input:135:d:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Input:136:d:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Input:137:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV_Official/./myModernCV.out
-Input:138:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV_Official/./myModernCV.out
+Input:137:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV/./myModernCV.out
+Input:138:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV/./myModernCV.out
 Input:139:d:/texlive/2013/texmf-dist/tex/latex/lm/ot1lmr.fd
 Input:140:d:/texlive/2013/texmf-dist/tex/latex/lm/omllmm.fd
 Input:141:d:/texlive/2013/texmf-dist/tex/latex/lm/omslmsy.fd
@@ -148,7 +148,7 @@ Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!10831
+!10795
 {1
 [1,164:4736287,54785984:32184380,50049697,0
 h1,164:4736287,4736287:0,0,0
@@ -6460,7 +6460,12 @@ k1,300:36920667,23960786:0
 )
 (1,300:8119620,24747218:28801047,455115,127430
 x1,300:12002647,24747218
-k1,300:36920667,24747218:25045160
+g1,300:12221100,24747218
+x1,300:12840021,24747218
+x1,300:13451694,24747218
+g1,300:13670147,24747218
+x1,300:16207850,24747218
+k1,300:36920667,24747218:20839957
 g1,300:36920667,24747218
 )
 (1,300:8119620,25533650:28801047,550500,235932
@@ -7773,7 +7778,7 @@ g1,338:36920667,54550052
 ]
 ]
 ]
-!66425
+!66550
 }3
 !10
 {4
@@ -11411,9 +11416,9 @@ g1,465:36920667,54550052
 ]
 !30726
 }5
-Input:145:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV_Official/./myModernCV.aux
-!97
+Input:145:D:/Programming/BidiTexMaker/CV/moderncv/myModernCV/./myModernCV.aux
+!88
 Postamble:
-Count:7791
+Count:7793
 !26
 Post scriptum:
