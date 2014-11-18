@@ -1,4 +1,4 @@
-<!1,2014103016:41:43>
+<!1,2014111902:55:19>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -86,7 +86,7 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{Reseach Interests}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvlistdoubleitem{Complex Systems}{Stochastic Processes}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvlistdoubleitem{Econophysics}{Online Social Media \&amp; Networks}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvlistdoubleitem{Online Social Media \&amp; Networks}‎{Econophysics}</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvlistdoubleitem{Neuroscience}{Network Bandwidth Managment}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{Education}‎</p>
@@ -309,8 +309,9 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎2 years experience‎, </p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{itemize}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\item \textbf{Proficient} in Scientific Computing‎.</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\item \textbf{Proficient} with NumPy‎, ‎Pandas‎, ‎Matplotlib‎, ‎SciPy‎, ‎VPython‎, ‎NetworkX‎.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\item \textbf{Proficient} with NumPy‎, ‎Pandas‎, ‎Matplotlib‎, ‎SciPy‎, ‎VPython‎, ‎NetworkX, BLZ, Blosc, Bcolz‎.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{itemize}}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Database}{‎MYSQL‎, ‎SQLite‎, ‎HSQLDB‎, SciDB‎, OpenTSDB.}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Software}{Gephi‎, ‎Mathematica‎, Matlab, ‎Maple.}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{IDE \&amp; Editor}{Netbeans‎, ‎IPython‎, ‎PyScripter‎, ‎Ninja IDE‎, ‎Wing IDE‎, ‎Eclipse.}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Other}{Familiar with PHP‎, ‎Javascript‎, ‎AJAX‎, ‎C++‎, ‎Fortran‎, ‎LaTex‎, ‎HTML‎, ‎XML‎, ‎CSS‎, ‎SQL‎, ‎MYSQL‎, ‎SQLite‎, ‎HSQLDB‎, ‎Wordpress‎, ‎Drupal.}‎</p>
@@ -389,15 +390,15 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{References}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{cvcolumns}‎  </p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Mohammad Reza Rahimi Tabar} \\ Professor of Physics \\ Institute of Physics \\ Carl von Ossietzky University‎, ‎Oldenburg‎, ‎Germany \\ Sharif University of Technology \\ mohammed.r.rahimi.tabar@uni-oldenburg.de \\ P‎. ‎O‎. ‎Box 11365-9161}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Farhad Shahbazi} \\ Associate Professor \\ Department of Physics \\ Isfahan University of Technology \\ shahbazi@cc.iut.ac.ir \\ 031-3391-3755}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Farhad Shahbazi} \\ Associate Professor \\ Department of Physics \\ Isfahan University of Technology \\ shahbazi@cc.iut.ac.ir \\ +9831-3391-3755}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{cvcolumns}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{cvcolumns}‎  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Massoud Reza Hashemi} \\ Associate Professor \\ Department of Electrical \&amp; Computer Engineering \\ Isfahan University of Technology \\ hashemim@cc.iut.ac.ir \\ 031-3391-5395}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Keivan Aghababaei Samani} \\ Associate Professor \\ Department of Physics \\ Isfahan University of Technology \\ samani@cc.iut.ac.ir \\ 031-3391-3763}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Massoud Reza Hashemi} \\ Associate Professor \\ Department of Electrical \&amp; Computer Engineering \\ Isfahan University of Technology \\ hashemim@cc.iut.ac.ir \\ +9831-3391-5395}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Keivan Aghababaei Samani} \\ Associate Professor \\ Department of Physics \\ Isfahan University of Technology \\ samani@cc.iut.ac.ir \\ +9831-3391-3763}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{cvcolumns}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{cvcolumns}‎  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Mojtaba Alaei} \\ Assistant Professor \\ Department of Physics \\ Isfahan University of Technology \\ m.alaei@cc.iut.ac.ir \\ 031-3391-3704}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Vahid Salari} \\ Assistant Professor \\ Department of Physics \\ Isfahan University of Technology \\ vahidsalari@cc.iut.ac.ir \\ 031-3391-3709}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Mojtaba Alaei} \\ Assistant Professor \\ Department of Physics \\ Isfahan University of Technology \\ m.alaei@cc.iut.ac.ir \\ +9831-3391-3704}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\cvcolumn{}{\textbf{Dr‎. ‎Vahid Salari} \\ Assistant Professor \\ Department of Physics \\ Isfahan University of Technology \\ vahidsalari@cc.iut.ac.ir \\ +9831-3391-3709}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{cvcolumns}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
