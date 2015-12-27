@@ -72,7 +72,9 @@
 %example: \MYhref[darkred]{http://www.uni-oldenburg.de/}{Oldenburg University}
 \newcommand\Colorhref[3][cyan]{\href{#2}{\small\color{#1}#3}}
 \newcommand{\myhy}[2]{\href[#1]{\color{green}\setulcolor{red}\ul{#2}}} 
-\newcommand{\moreinfo}{\nolinkurl{more} \nolinkurl{info}} 
+\newcommand{\moreinfo}{\nolinkurl{more} \nolinkurl{info}}
+\newcommand{\invitationLetter}{\nolinkurl{invitation} \nolinkurl{letter}}
+ 
 
 \newcommand{\superscript}[2][darkred2]{{\color{#1}$^{#2}$}}
 \newcommand{\urlfootnote}[2]{\footnotetext[#1]{\href{#2}{#2}}}
@@ -272,7 +274,7 @@ I was member of \textit{Association of Creativity Efflorescence} at ISTT.
 
 
 \section{Publications}
-\cventry{}{\textnormal{Mojtaba Khodadadi, Farhad Shahbazi, }"Classification of Epilepsy Focus in Interictal and Ictal States"}{accepted for 20-minute presentation at \textbf{CCS'15 (Conference On Complex Systems)}}{Sep 26 - Oct 2, 2015 at Tempe, Arizona, USA}{}{}
+\cventry{}{\textnormal{Mojtaba Khodadadi, Farhad Shahbazi, }"Classification of Epilepsy Focus in Interictal and Ictal States"}{accepted for 20-minute presentation at \textbf{CCS'15 (Conference On Complex Systems)}}{Sep 26 - Oct 2, 2015 at Tempe, Arizona, USA}{\hfill \MYhref[blue]{https://users.ictp.it/~mkhodada/CCS2015-Invitation-Letter.pdf}{\invitationLetter}}{}
 \cventry{}{\textnormal{Mojtaba Khodadadi, Farhad Shahbazi, Mohammad Reza Rahimi Tabar, }"PyMarkov: A Python Module for Markovian Stochastic Processes"}{In preparation}{}{}{}
 \cventry{}{\textnormal{Mojtaba Khodadadi, Farhad Shahbazi, Mohammad Reza Rahimi Tabar, }"PyCorrState: A Python Package for Correlation States Extraction"}{In preparation}{}{}{}
 \cventry{}{\textnormal{Mojtaba Khodadadi, Farhad Shahbazi, Mohammad Reza Rahimi Tabar, }''Identifying Epilepsy Focus by Correlation Matrix Method"}{In preparation}{}{}{}
