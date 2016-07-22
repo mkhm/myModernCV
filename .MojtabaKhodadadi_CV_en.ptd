@@ -1,4 +1,4 @@
-<!1,2016072111:48:32>
+<!1,2016072210:10:01>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -393,7 +393,7 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Database}{MYSQL‎, ‎SQLite‎, \comment{‎HSQLDB‎, ‎SciDB‎, ‎OpenTSDB.}}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Software}{Gephi‎, ‎Mathematica‎, \comment{‎Matlab‎, }‎Maple.}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{IDE \&amp; Editor}{Netbeans‎, ‎IPython‎, ‎Spyder‎, ‎IEP IDE‎, ‎PyScripter‎, ‎Ninja IDE‎, \comment{Spyder, ‎PyCharm‎, ‎Wing IDE‎, }‎Eclipse.}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Other}{Familiar with ‎Fortran‎, PHP‎, ‎Javascript‎, ‎AJAX‎, ‎C++‎, ‎LaTex‎, ‎HTML‎, ‎XML‎, ‎CSS‎, ‎SQL‎, ‎Wordpress‎, ‎Drupal.}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cvitem{Other}{Familiar with GIT, ‎Fortran‎, PHP‎, ‎Javascript‎, ‎AJAX‎, ‎C++‎, ‎LaTex‎, ‎HTML‎, ‎XML‎, ‎CSS‎, ‎SQL‎, ‎Wordpress‎, ‎Drupal.}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -580,7 +580,8 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{Conference Organization}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cventry{January 2015}{12th Iran National Conference on Condensed Matter Physics}{Member of Organization Committee}{Isfahan University of Technology}{Isfahan‎, ‎Iran}{}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cventry{September 2014}{International Iran Conferences on Quantum Information 2014 (IICQI)}{Member of Local Coordinating Committee}{Sharif University of Technology and Isfahan University of Technology}{Isfahan‎, ‎Iran}{Web site‎: ‎\MYhref[darkblue]{http://iicqi.sharif.edu/events/iicqi-14}{\nolinkurl{http://iicqi.sharif.edu/events/iicqi-14}}}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\cventry{September 2014}{International Iran Conferences on Quantum Information 2014 (IICQI)}{Member of Local Coordinating Committee}{Sharif University of Technology and Isfahan University of Technology}{Isfahan‎, ‎Iran, \MYhref[blue]{http://iicqi.sharif.edu/events/iicqi-14}{\moreinfo}‎‎‎‎}‎{}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">%{Web site‎: ‎\MYhref[darkblue]{http://iicqi.sharif.edu/events/iicqi-14}{\nolinkurl{http://iicqi.sharif.edu/events/iicqi-14}}}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{Participation in Conferences}‎</p>
