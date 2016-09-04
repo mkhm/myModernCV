@@ -1,0 +1,7 @@
+*.ptd
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex
